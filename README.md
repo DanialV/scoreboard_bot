@@ -1,2 +1,2 @@
 
-Sadjad ACM Scoreboard @scoreboardbot
+Sadjad ACM Scoreboard http://telegram.me/scoreboardbot
